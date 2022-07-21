@@ -1,1 +1,1 @@
-Read me
+This repository contain 4 different academic projetcs about OOP desing in C++ using Visual Studio 2019
